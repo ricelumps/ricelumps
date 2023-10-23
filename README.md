@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fricelumps&count_bg=%23A21D01&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/>
   </a>
 
+</p>
+
 
 # About me 🌱
 
@@ -69,5 +71,3 @@ Here are some ideas to get you started:
 [![Tjeoun_TeamProject](https://github-readme-stats.vercel.app/api/pin/?username=ricelumps&repo=Tjeoun_TeamProject&border_color=A21D01&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=A21D01)](https://github.com/ricelumps/Tjeoun_TeamProject)
 
   
-</p>
-
