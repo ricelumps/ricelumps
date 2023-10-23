@@ -24,8 +24,6 @@ Here are some ideas to get you started:
   </a>
 
 
-# I've used it at least once
-
 ## Programming Languages
 ![C](https://img.shields.io/badge/C-3f48cc?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-e46b04?style=for-the-badge&logo=Java&logoColor=white)
