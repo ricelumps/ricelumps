@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 # I've used it at least once
 
 ## Programming Languages
+{: .text-center}
 ![C](https://img.shields.io/badge/C-3f48cc?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-e46b04?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
