@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center>
 <img src="https://capsule-render.vercel.app/api?type=Rounded&section=header&color=A21D01&height=200&text=Ricelumps&desc=KHC%27s%20Portfoilo&descAlign=61&descAlignY=75&stroke=000000&strokeWidth=2&animation=twinkling&fontColor=FFFFFF"/>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A21D01&title_bg=%23000000&icon=skyliner.svg&icon_color=%23FFFFFF&title=Git-Hub&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://</p>hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A21D01&title_bg=%23000000&icon=skyliner.svg&icon_color=%23FFFFFF&title=Git-Hub&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
