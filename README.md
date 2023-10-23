@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 # PROJECT
 [![P2PApp](https://github-readme-stats.vercel.app/api/pin/?username=ricelumps&repo=P2PApp&border_color=A21D01&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=A21D01)](https://github.com/ricelumps/P2PApp)
+[![Tjeoun_TeamProject](https://github-readme-stats.vercel.app/api/pin/?username=ricelumps&repo=Tjeoun_TeamProject&border_color=A21D01&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=A21D01)](https://github.com/ricelumps/Tjeoun_TeamProject)
 
   
 </p>
