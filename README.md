@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # About me 🌱
 
 <p>
-<img align="right" width="350" src="https://user-images.githubusercontent.com/147673544/277361722-bc9a9c38-fbaa-46c8-9ec7-ffa468ecadac.jpg" alt="Coding gif"/>
+<img align="right" width="350" height="600" src="https://user-images.githubusercontent.com/147673544/277361722-bc9a9c38-fbaa-46c8-9ec7-ffa468ecadac.jpg" alt="Coding gif"/>
 
 ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp; Love to writing code and learning new features<br/><br/>
