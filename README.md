@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
 
 
-# I've used it at least once
+# About me 🌱
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/C-3f48cc?style=for-the-badge&logo=C&logoColor=white)
