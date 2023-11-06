@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
       
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&section=header&color=A21D01&height=200&text=Ricelumps&desc=KHC%27s%20Portfolio&descAlign=61&descAlignY=75&stroke=000000&strokeWidth=2&animation=twinkling&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=Rounded&section=header&color=A21D01&height=200&text=Ricelumps&desc=KHC%27s%20GitHub&descAlign=61&descAlignY=75&stroke=000000&strokeWidth=2&animation=twinkling&fontColor=FFFFFF"/>
   <br>
   <a href="https://hits.seeyoufarm.com">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fricelumps&count_bg=%23A21D01&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/>
