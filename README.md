@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <p>
 <img align="right" width="160" height="220" src="https://user-images.githubusercontent.com/147673544/277361722-bc9a9c38-fbaa-46c8-9ec7-ffa468ecadac.jpg" alt="Coding gif"/>
 
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-❤️ &emsp; Love to writing code and learning new features<br/><br/>
+✌️ &emsp; 2000년생 <br/><br/>
+❤️ &emsp; 인천전자마이스터고 정보통신기기 졸업<br/><br/>
 📧 &emsp; Reach me anytime: ricelumps@gmail.com<br/><br/>
 💬 &emsp; Ask me about anything [here](https://github.com/ricelumps/ricelumps/issues)
 </p>
