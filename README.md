@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ✌️ &emsp; 2000년생 <br/><br/>
 ❤️ &emsp; 인천전자마이스터고 정보통신기기 졸업<br/><br/>
-📧 &emsp; Reach me anytime: ricelumps@gmail.com<br/><br/>
-💬 &emsp; Ask me about anything [here](https://github.com/ricelumps/ricelumps/issues)
+📧 &emsp; ricelumps@gmail.com<br/><br/>
+💬 &emsp; 문의사항은 여기로 → [here](https://github.com/ricelumps/ricelumps/issues)
 </p>
 
 
