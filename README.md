@@ -74,6 +74,6 @@ Here are some ideas to get you started:
 <br/>
 
 # Practice
-[![Java-Practice](https://github-readme-stats.vercel.app/api/pin/?username=ricelumps&repo=Java-Practice&border_color=A21D01&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=A21D01)]([https://github.com/ricelumps/Java-Practice])
+[![Java-Practice](https://github-readme-stats.vercel.app/api/pin/?username=ricelumps&repo=Java-Practice&border_color=A21D01&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=A21D01)](https://github.com/ricelumps/Java-Practice)
 
 
