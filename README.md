@@ -67,7 +67,9 @@ Here are some ideas to get you started:
 ## 백준 BaekJoon
 
 <p align="center">
+      
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=onlyjoyrice)](https://solved.ac/onlyjoyrice/)
+
 </p>
 
 <br/>
